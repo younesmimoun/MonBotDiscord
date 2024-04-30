@@ -103,4 +103,4 @@ async def on_member_join(member):
 
 
 # Démarrage du bot
-#bot.run("MTIzNDg1NzQ3MDc4MzEzMTY3OA.Gtjszw.Qf49qVU8b98-bIuQ1FLCEnIoakpfvu-PYJnt20")
+bot.run("")
